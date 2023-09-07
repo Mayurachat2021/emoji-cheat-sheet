@@ -1543,4 +1543,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#github-custom-emoji) | :rage3: | `:rage3:` | :rage4: | `:rage4:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :shipit: | `:shipit:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
-
+Simplified Chinese IBM Informix Guide to SQL: Reference, v11.50 (S151-0977-01)
+publibfp.boulder.ibm.com/epubs/pdf/15109771.pdf
+  This is the Simplified Chinese translation of IBM Informix Guide to SQL: Reference, v11.50. This guide provides information on the following topics: IBM Informix databases, data types, system catalog tables, environment variables, and the stores_demo demonstration database.
+JR42473: UPGRADE FROM INITIATE MDS INSTANCE CREATED WITH DATABASE TYPE MSSQL CAN RESULT IN SLOW MEMPUT PERFORMANCE.
